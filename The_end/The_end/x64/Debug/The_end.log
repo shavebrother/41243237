@@ -1,0 +1,5 @@
+﻿  mode3.c
+C:\Users\jeffe\OneDrive\桌面\專題\The_end\The_end\mode3.c(12,11): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\jeffe\OneDrive\桌面\專題\The_end\The_end\mode3.c(34,9): warning C4033: 'playGameMode3' 必須傳回值
+C:\Users\jeffe\OneDrive\桌面\專題\The_end\The_end\mode3.c(153): warning C4715: 'playGameMode3': 不是所有控制路徑都傳回值
+  The_end.vcxproj -> C:\Users\jeffe\OneDrive\桌面\專題\The_end\x64\Debug\The_end.exe
