@@ -29,9 +29,24 @@ int playGameMode3(const char* many) {
     case 4:
         game = fopen("04.txt", "r");
         break;
-    default:
-        printf("還未登入，請先登錄\n");
-        return;  
+    case 5:
+        game = fopen("05.txt", "r");
+        break;
+    case 6:
+        game = fopen("06.txt", "r");
+        break;
+    case 7:
+        game = fopen("07.txt", "r");
+        break;
+    case 8:
+        game = fopen("08.txt", "r");
+        break;
+    case 9:
+        game = fopen("09.txt", "r");
+        break;
+    case 10:
+        game = fopen("10.txt", "r");
+        break;
     }
 
     if (game == NULL) {
